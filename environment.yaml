@@ -1,0 +1,11 @@
+name: master-spreadsheet-datasets
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - snakemake
+  - pandas
+  - dataretrieval
+  - requests
+  - openpyxl
+  - pip
